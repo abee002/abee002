@@ -2,22 +2,22 @@
 # 👋 Hi there, I'm Abee!
 
 👨🏻‍💻 **About Me**  
-🎓 I am an undergraduate Software Engineering student at South Eastern University of Sri Lanka.  
+🎓 I am an undergraduate Software Engineering student .  
 💼 Working as a Full Stack Developer | Innovating scalable web solutions 🌟  
-🌱 I’m passionate about Mobile App Development, Web Applications, DevOps, IoT & AI.  
+🌱 I’m passionate about Mobile App Development, Web Applications, AI , IoT & DevOps.  
 🧠 Currently learning: Cloud Architecture, Systems Design, Data Structures & AI  
-📫 Reach me at: **abee.dev@gmail.com**
+📫 Reach me at: **vinosuntharabeeshan@gmail.com**
 
 ---
 
-🚀 **Philosophy**  
-I believe in steady progress and see every challenge as a chance to grow professionally and personally.  
-My journey is defined by resilience, innovation, and the pursuit of excellence.
+## 💡 Mindset & Goals  
+I thrive on continuous learning and real-world application.  
+My goal is to build impactful software, contribute to open source, and grow as a developer through meaningful challenges.
 
 ---
 
 ## 🌐 Socials  
-[Facebook](#) • [Instagram](#) • [LinkedIn](#) • [Stack Overflow](#) • [Twitter](#) • [YouTube](#)
+[Facebook](#https://www.facebook.com/profile.php?id=100092618242413) • [Instagram](#https://www.instagram.com/abee_002/) • [LinkedIn](##https://www.linkedin.com/in/vinosunthar-abeeshan-a70baa277/) • [Stack Overflow](#https://stackoverflow.com/users/25125320/abee-dev) • [Twitter](#) • [YouTube](#)
 
 ---
 
@@ -37,9 +37,9 @@ My journey is defined by resilience, innovation, and the pursuit of excellence.
 
 **Tools & Platforms:**  
 ⚙️ Git • GitHub • Postman  
-🔧 VS Code  
+🔧 VS Code  • Intelij 
 ☁️ AWS • Azure • Firebase • Docker  
-💡 Arduino
+
 
 **UI/UX & Design:**  
 🎨 Photoshop • Illustrator • Premiere Pro  
